@@ -1,0 +1,36 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: Ejercicio1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net9.0/Ejercicio1.dll", // Asegúrate de que este archivo exista
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "name": "Depuración Remota",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "pipeTransport": {
+                "pipeProgram": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",  // Asegúrate de que la ruta sea correcta
+                "pipeArgs": ["usuario@maquina_remota"],
+                "debuggerPath": "/ruta/completa/a/vsdbg/vsdbg",  // Cambia esto a la ruta correcta en la máquina remota
+                "quoteArgs": true
+            },
+            "program": "${workspaceFolder}/bin/Debug/net9.0/Ejercicio1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false
+        }
+    ]
+}
