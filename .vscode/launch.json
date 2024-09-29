@@ -6,8 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net9.0/Ejercicio1.dll", // Asegúrate de que este archivo exista
-            "args": [],
+            "program": "${workspaceFolder}/bin/Debug/net9.0/Ejercicio1.dll",
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false
         },
@@ -22,9 +21,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             "pipeTransport": {
-                "pipeProgram": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",  // Asegúrate de que la ruta sea correcta
+                "pipeProgram": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
                 "pipeArgs": ["usuario@maquina_remota"],
-                "debuggerPath": "/ruta/completa/a/vsdbg/vsdbg",  // Cambia esto a la ruta correcta en la máquina remota
+                "debuggerPath": "/ruta/completa/a/vsdbg/vsdbg",
                 "quoteArgs": true
             },
             "program": "${workspaceFolder}/bin/Debug/net9.0/Ejercicio1.dll",
