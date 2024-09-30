@@ -1,0 +1,15 @@
+c:\Users\ibarr\Ejercicios2024\Ej2\bin\Debug\net9.0\Ej2.exe
+c:\Users\ibarr\Ejercicios2024\Ej2\bin\Debug\net9.0\Ej2.deps.json
+c:\Users\ibarr\Ejercicios2024\Ej2\bin\Debug\net9.0\Ej2.runtimeconfig.json
+c:\Users\ibarr\Ejercicios2024\Ej2\bin\Debug\net9.0\Ej2.dll
+c:\Users\ibarr\Ejercicios2024\Ej2\bin\Debug\net9.0\Ej2.pdb
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\Ej2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\Ej2.AssemblyInfoInputs.cache
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\Ej2.AssemblyInfo.cs
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\Ej2.csproj.CoreCompileInputs.cache
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\Ej2.sourcelink.json
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\Ej2.dll
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\refint\Ej2.dll
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\Ej2.pdb
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\Ej2.genruntimeconfig.cache
+c:\Users\ibarr\Ejercicios2024\Ej2\obj\Debug\net9.0\ref\Ej2.dll
